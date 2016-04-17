@@ -214,7 +214,7 @@ loadingMoreButton.rac_hidden <~ viewModel.isLoadingProducer.map { !$0 }
 Binding with CocoaAction (aka RACCommand in RAC 2.x): update later
 
 <a name="examples-3"></a>
-### [3] Task management Text validation
+### [3] Task management
 #### Network request
 
 ```
